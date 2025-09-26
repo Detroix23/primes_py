@@ -7,7 +7,7 @@ Paths variable across the program.
 import pathlib
 
 # Prime numbers known files directory.
-INT: pathlib.Path = pathlib.Path("../data/int")
+INT: pathlib.Path = pathlib.Path("./data/int")
 
 
 
